@@ -12,7 +12,7 @@ With screen sharing capabilities, private and group messaging, admin controls, p
   + Backend Deployed to Heroku by Agora App Builder
 
   ### Hosted applications
-  + Frontend is hosted in Netlify : https://chat-application-a2z.netlify.app
+  + Frontend is hosted in Netlify : https://videocalls.netlify.app/
 
 ## Languages / Covered topics
 + React.js, TypeScript
